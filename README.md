@@ -1,8 +1,9 @@
-if you will open File Editor, open File Editor.exe
-Dont change or delete any file
+-if you will open File Editor, open File Editor.exe
 
-BY EFKANSENOL
+-Dont change or delete any file
 
-In Development Project
+--BY EFKANSENOL--
 
-Version 1.0.0.0
+--In Development Project--
+
+--Version 1.0.0.0--
